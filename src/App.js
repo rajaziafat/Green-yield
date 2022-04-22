@@ -64,7 +64,7 @@ function App() {
         </div>
 
         <div className="box">
-          <h2>Yeild/Consumables</h2>
+          <h2>Yield/Consumables</h2>
           <div className="row">
             <p>Daily Profit</p>
             <p>10%</p>
